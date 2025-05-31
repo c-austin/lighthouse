@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82.621" height="82.118" viewBox="0 0 82.621 82.118">
+  <g id="PROGRESSIVE_ICON" data-name="PROGRESSIVE ICON" transform="translate(-1.5)">
+    <g id="Group_12" data-name="Group 12" transform="translate(3.5)">
+      <g id="Group_11" data-name="Group 11" transform="translate(0 15.562)">
+        <g id="Group_9" data-name="Group 9">
+          <g id="Group_8" data-name="Group 8" transform="translate(16.4 7.661)">
+            <path id="Path_42" data-name="Path 42" d="M53.57,102.8a6.325,6.325,0,0,0,5.886,3.319c3.451,0,6.245-2.237,6.245-4.995,0-6.358-12.491-2.715-12.491-8.961,0-2.758,2.8-4.995,6.245-4.995a6.507,6.507,0,0,1,5.655,2.87" transform="translate(-53.21 -81.634)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+            <line id="Line_3" data-name="Line 3" y1="5.539" transform="translate(6.245)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+            <line id="Line_4" data-name="Line 4" y1="5.536" transform="translate(6.245 24.431)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          </g>
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="22.646" cy="22.646" r="22.646" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(28.363 16.493)">
+          <path id="Path_43" data-name="Path 43" d="M89.47,180.188v15.364h42.118V172.27" transform="translate(-89.47 -147.49)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <path id="Path_44" data-name="Path 44" d="M153.3,97.16l12.583,10.973h.148v-7.677h8.327v15.067l8.825,7.7" transform="translate(-132.241 -97.16)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <path id="Path_45" data-name="Path 45" d="M132.31,204.093v-12.9h13.85v12.9" transform="translate(-118.176 -160.168)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+      <line id="Line_5" data-name="Line 5" y1="8.621" transform="translate(5.978 6.216)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Line_6" data-name="Line 6" y1="8.621" transform="translate(17.09)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Line_7" data-name="Line 7" y1="7.064" transform="translate(28.198 2.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Line_8" data-name="Line 8" y1="12.504" transform="translate(39.31 0.779)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
